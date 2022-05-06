@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tejassharma20
+- 👋 Hi, I’m dynamic code
 - 👀 I’m interested in python, rust, go ,html ,css,js, wasm
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on ...
